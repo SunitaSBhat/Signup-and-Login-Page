@@ -1,0 +1,36 @@
+form{
+    display: flex;
+    flex-direction: column;
+    margin: -124px 0px;
+    border: 2px solid white;
+    width: 400px;
+    height: 333px;
+    padding: 12px 64px;
+    padding-left: 148px;
+    border-radius: 12px 12px;
+}
+
+  
+body{
+    background-image: url("backgrondimage.jpg");
+    background-repeat: none;
+    background-size: cover;
+}
+
+input{
+    margin:12px 0px;
+    width:300px;
+    border-radius: 12px 12px;
+    background-color: transparent;
+    border:2px solid white;
+    height: 35px;
+    color: white;
+}
+button{
+    margin:12px 0px;
+    background-color: transparent;
+    width:300px;
+    height: 35px;
+    border:2px solid white;
+    color: white;
+}
